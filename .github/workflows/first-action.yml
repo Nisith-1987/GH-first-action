@@ -10,3 +10,6 @@ jobs:
       run: echo "done- bye!"
       run: echo "done lasted changes"
       run: echo "my second change done lasted changes123"
+
+    - name: hi 
+      run: echo "print it"
