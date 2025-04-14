@@ -8,3 +8,5 @@ jobs:
       run: echo "Hello words"
     - name: print goodbye
       run: echo "done- bye!"
+    - name: latest code 
+      run: echo "done lasted changes"
